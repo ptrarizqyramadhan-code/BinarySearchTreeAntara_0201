@@ -20,3 +20,7 @@ public:
     }
 };
 
+//membuat class BinarTree
+class BinaryTree {
+
+    
