@@ -31,3 +31,6 @@ public:
     BinaryTree() {
         ROOT = nullptr;
     }
+
+    //membuat prosedur insert
+    void insert(string element) {
