@@ -11,4 +11,6 @@ public:
     Node* leftChild;
     Node* rightChild;
 
-   
+    //membuat constructor dari class node
+    Node(string i, Node* l, Node* r) {
+        
